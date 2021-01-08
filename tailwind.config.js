@@ -15,7 +15,7 @@ module.exports = {
         "pink-red-1":"#d7263d"
       },
       margin: {
-        "wide": "600px"
+        "wide": "500px"
       },
     },
     variants: {},
